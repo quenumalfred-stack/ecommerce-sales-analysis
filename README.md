@@ -65,4 +65,6 @@ ecommerce-sales-analysis
 
 
 ## Author
+
+Alfred Quenum
 Data analysis project using SQL, Python, and Tableau.
