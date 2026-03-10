@@ -6,6 +6,10 @@ End-to-end data analysis project using SQL, Python, and  Tableau to analyze e-co
 - Python (Pandas, Matplotlib)
 - Tableau
 
+  ## Dashboard Preview
+
+![Dashboard](tableau_dashboard.png)
+
 ## Project Goals
 - Analyze sales trends
 - Identify top performing categories
@@ -49,10 +53,6 @@ The dashboard includes:
 - Maharashtra produced the largest share of total sales
 - Most orders were successfully shipped
 - Revenue peaked in April before declining slightly
-
-## Dashboard Preview
-
-![Dashboard](tableau_dashboard.png)
 
 ## Repository Structure
 ecommerce-sales-analysis
