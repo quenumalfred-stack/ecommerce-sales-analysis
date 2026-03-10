@@ -8,7 +8,7 @@ End-to-end data analysis project using SQL, Python, and  Tableau to analyze e-co
 
   ## Dashboard Preview
 
-![Dashboard](tableau_dashboard.png) 
+![Tableau Dashboard](./tableau_dashboard.png)
 
 ## Project Goals
 - Analyze sales trends
